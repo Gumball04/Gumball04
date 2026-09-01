@@ -1,19 +1,32 @@
 <div align="center">
 
-# 🪐 Amr Shadid
-# I USE ARCH BTW 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+%F0%9F%8E%93;Backend+%26+Cloud+Developer+%E2%98%81%EF%B8%8F;Spring+Boot+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+Azure;Building+scalable%2C+automated+systems" alt="Typing SVG" />
+<h1>🪐 Amr Shadid</h1>
 
-<br/>
+<h2 align="center">I USE ARCH BTW 🐧</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Gumball04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/amr-shadid-794621119/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://amr-shadid.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:amroshadid@gmail.com)
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+%F0%9F%8E%93;Backend+%26+Cloud+Developer+%E2%98%81%EF%B8%8F;Spring+Boot+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+Azure;Building+scalable%2C+automated+systems"
+  alt="Typing SVG"
+/>
+
+<br><br>
+
+<a href="https://github.com/Gumball04">
+  <img src="https://img.shields.io/badge/GITHUB-1A1B27?style=for-the-badge&logo=github&logoColor=D4AF37">
+</a>
+<a href="https://www.linkedin.com/in/amr-shadid-794621119/">
+  <img src="https://img.shields.io/badge/LINKEDIN-1A1B27?style=for-the-badge&logo=linkedin&logoColor=D4AF37">
+</a>
+<a href="https://amr-shadid.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-1A1B27?style=for-the-badge&logo=vercel&logoColor=D4AF37">
+</a>
+<a href="mailto:amroshadid@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-1A1B27?style=for-the-badge&logo=gmail&logoColor=D4AF37">
+</a>
 
 </div>
 
-<br/>
+<br>
 
 ## 🪐 About Me
 
