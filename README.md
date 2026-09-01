@@ -78,20 +78,7 @@ Computer Science graduate (Al-Balqa Applied University, GPA 3.5/4) interested in
 
 ---
 
-## 🌙 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gumball04&show_icons=true&theme=radical&hide_border=true&bg_color=1A1B27&title_color=D4AF37&icon_color=D4AF37&text_color=E8DCC8" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gumball04&theme=radical&hide_border=true&background=1A1B27&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=E8DCC8" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gumball04&layout=compact&theme=radical&hide_border=true&bg_color=1A1B27&title_color=D4AF37&text_color=E8DCC8" width="45%"/>
-
-</div>
-
----
 
 ## 🏅 Certifications
 
