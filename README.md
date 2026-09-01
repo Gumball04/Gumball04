@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🪐 Amr Shadid
-I USE ARCH BTW 
+# I USE ARCH BTW 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate+%F0%9F%8E%93;Backend+%26+Cloud+Developer+%E2%98%81%EF%B8%8F;Spring+Boot+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+Azure;Building+scalable%2C+automated+systems" alt="Typing SVG" />
 
 <br/>
